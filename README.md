@@ -24,10 +24,7 @@ This is a basic simulation of an Automated Teller Machine (ATM) created as part 
 
 ## 🚀 How to Run
 
-1. Open the project in your preferred IDE or Unity (if Unity-based).
-2. Run the main script:  
-   `<!-- ISI MANUAL DI SINI -->` (misalnya `main.py`, `Main.cs`, `ATM.unity`, dll.)
-3. Follow on-screen instructions to simulate ATM operations.
+1. Run .exe
 
 ## 🔧 Future Improvements
 
@@ -39,8 +36,8 @@ This is a basic simulation of an Automated Teller Machine (ATM) created as part 
 
 ## 🎓 Author
 
-Created by **<!-- ISI MANUAL DI SINI -->[Nama Kamu]**  
-Tugas **Mini Project / Tugas Besar Mesin ATM Sederhana**  
+Created by **[Akasha Bin Ali]**  
+Tugas **Tugas Besar Logika dan Algoritma Semester 1**  
 **Politeknik Negeri Semarang**
 
 ---
